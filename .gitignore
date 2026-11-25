@@ -1,0 +1,31 @@
+
+# Entornos virtuales
+Mi-Entorno/
+venv/
+.venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración local y datos sensibles
+.env
+.env.*
+!.env.example
+
+# Archivos de sistema Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de sistema Mac
+.DS_Store
+
+# Registros
+*.log
+
+# Configuración local de editores
+.vscode/
+.idea/
